@@ -8,6 +8,10 @@ Este projeto é um site web desenvolvido em React.js que oferece consulta de pre
 
 O site é uma ferramenta simples e intuitiva, ideal para quem busca informações meteorológicas rapidamente, sem a complexidade de aplicativos ou portais sobrecarregados. Sua integração direta com a API elimina a necessidade de um backend, tornando-o leve, acessível e fácil de usar.
 
+## URL do implementado no GitHub Pages
+
+https://joabpereira.github.io/climatica_react/
+
 ![](https://github.com/JoabPereira/climatica_react/blob/main/src/assets/Screenshot%202025-06-01%20133048.png)
 
 ## Tecnologias utilizadas
